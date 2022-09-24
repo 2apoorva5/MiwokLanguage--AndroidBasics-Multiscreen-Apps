@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Miwok</string>
+
+    <string name="title_numbers">Numbers</string>
+    <string name="title_family_members">Family Members</string>
+    <string name="title_colors">Colors</string>
+    <string name="title_phrases">Phrases</string>
+</resources>

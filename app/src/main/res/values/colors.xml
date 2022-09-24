@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF101010</color>
+    <color name="colorPrimaryVariant">#FF000000</color>
+    <color name="colorAccent">#FFFFF9C4</color>
+
+    <color name="colorTabText">#FF888888</color>
+
+    <color name="colorCategoryNumbers">#FFFFB74D</color>
+    <color name="colorCategoryNumbersDark">#FFD5912E</color>
+
+    <color name="colorCategoryFamilyMembers">#FF81C784</color>
+    <color name="colorCategoryFamilyMembersDark">#FF61AE64</color>
+
+    <color name="colorCategoryColors">#FFBA68C8</color>
+    <color name="colorCategoryColorsDark">#FFA350B1</color>
+
+    <color name="colorCategoryPhrases">#FF4FC3F7</color>
+    <color name="colorCategoryPhrasesDark">#FF2F9ECF</color>
+</resources>

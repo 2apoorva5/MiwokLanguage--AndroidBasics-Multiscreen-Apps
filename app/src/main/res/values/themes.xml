@@ -1,0 +1,25 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.MiwokLanguage" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Navigation bar color. -->
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <!-- Customize your theme here. -->
+        <item name="tabStyle">@style/TabLayoutTextAppearance</item>
+    </style>
+
+    <!-- Tab Layout Text Appearance -->
+    <style name="TabLayoutTextAppearance" parent="Widget.MaterialComponents.TabLayout">
+        <item name="tabTextAppearance">@style/TabTextAppearance</item>
+    </style>
+
+    <style name="TabTextAppearance" parent="TextAppearance.MaterialComponents.Button">
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>
